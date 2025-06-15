@@ -1,7 +1,22 @@
 [
-  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499 },
-  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
-  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
-  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
-  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 }
+  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499, "description": "High-performance laptop with latest processor" },
+  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399, "description": "Premium wireless headphones with active noise cancellation" },
+  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999, "description": "34-inch curved gaming monitor" },
+  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799, "description": "Adjustable office chair with lumbar support" },
+  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199, "description": "Electric height-adjustable desk" },
+  { "id": 6, "name": "Mechanical Keyboard", "category": "Electronics", "price": 199, "description": "RGB mechanical gaming keyboard" },
+  { "id": 7, "name": "Gaming Mouse", "category": "Electronics", "price": 89, "description": "Wireless gaming mouse with customizable buttons" },
+  { "id": 8, "name": "Desk Lamp", "category": "Furniture", "price": 49, "description": "LED desk lamp with adjustable brightness" },
+  { "id": 9, "name": "Webcam", "category": "Electronics", "price": 129, "description": "4K webcam with built-in microphone" },
+  { "id": 10, "name": "Microphone", "category": "Electronics", "price": 159, "description": "USB condenser microphone for streaming" },
+  { "id": 11, "name": "Monitor Arm", "category": "Furniture", "price": 79, "description": "Adjustable monitor mount" },
+  { "id": 12, "name": "Cable Management Kit", "category": "Accessories", "price": 29, "description": "Cable organizers and clips" },
+  { "id": 13, "name": "USB Hub", "category": "Electronics", "price": 39, "description": "7-port USB 3.0 hub" },
+  { "id": 14, "name": "Desk Mat", "category": "Accessories", "price": 19, "description": "Large mouse pad with wrist support" },
+  { "id": 15, "name": "Power Strip", "category": "Electronics", "price": 45, "description": "Surge protector with USB ports" },
+  { "id": 16, "name": "Footrest", "category": "Furniture", "price": 59, "description": "Adjustable ergonomic footrest" },
+  { "id": 17, "name": "Monitor Light Bar", "category": "Electronics", "price": 89, "description": "LED light bar for monitor" },
+  { "id": 18, "name": "Desk Organizer", "category": "Furniture", "price": 35, "description": "Multi-compartment desk organizer" },
+  { "id": 19, "name": "Wireless Charger", "category": "Electronics", "price": 49, "description": "Fast wireless charging pad" },
+  { "id": 20, "name": "Blue Light Glasses", "category": "Accessories", "price": 69, "description": "Computer glasses with blue light filter" }
 ]
